@@ -1,0 +1,8 @@
+@import url(./_theme/footer_theme_dark.css);
+
+.footer {
+  min-height: 80px;
+  padding: 0 80px;
+  display: flex;
+  align-items: center;
+}

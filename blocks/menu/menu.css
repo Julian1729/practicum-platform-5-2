@@ -1,5 +1,5 @@
 @import url(./__link/menu__link.css);
-@imoprt url(./__link/_theme/menu__link_theme_dark.css);
+@import url(./__link/_theme/menu__link_theme_dark.css);
 
 .menu {
   flex-grow: 0.1;
